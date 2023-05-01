@@ -1,2 +1,3 @@
 # Clasicube_Web
-eb
+Clasicube web has the packages and steps to setup clasicube on the web.
+
